@@ -2,8 +2,10 @@
   --text-font: "Tenor Sans", sans-serif;
 }
 
-h1 {
+body {
   font-family: var(--text-font);
+}
+h1 {
   font-style: normal;
   font-weight: 700;
   font-size: 96px;
