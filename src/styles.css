@@ -1,0 +1,11 @@
+:root {
+  --text-font: "Tenor Sans", sans-serif;
+}
+
+h1 {
+  font-family: var(--text-font);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 96px;
+  line-height: 144px;
+}
