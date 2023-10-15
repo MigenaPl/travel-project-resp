@@ -54,6 +54,9 @@ header a {
   padding: 16px 32px;
   margin-top: 32px;
 }
+footer {
+  background-image: url("../media/House_of_Parliament.jpg");
+}
 
 @media (max-width: 900px) {
   header {
