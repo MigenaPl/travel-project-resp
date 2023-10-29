@@ -70,6 +70,7 @@ header a {
 }
 
 .grid-2-columns {
+  max-width: 1000px;
   grid-template-columns: 1fr 1fr;
 }
 
@@ -249,6 +250,9 @@ footer a {
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
+  }
+  .hide {
+    display: none;
   }
 }
 
