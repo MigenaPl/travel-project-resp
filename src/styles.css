@@ -5,6 +5,7 @@
 body {
   font-family: var(--text-font);
   background-color: #272044;
+  margin: 0;
 }
 .container {
   max-width: 1400px;
